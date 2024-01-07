@@ -29,4 +29,4 @@ python
 
 contract = SmartContract()
 print(contract.initiate_contract("BuyerName", "SellerName", PriceAmount))
-# Followed by payment, delivery, and finalization methods.
+Followed by payment, delivery, and finalization methods.
